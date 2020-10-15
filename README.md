@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Asuka](https://github.com/faldyif/asuka)
 
-- 🌱 I’m currently learning **Automation, Data Science**
+- 🌱 I’m currently learning **Backend Performance Optimization**
 
 - 📝 I regulary write articles on [https://medium.com/@faldyif](https://medium.com/@faldyif)
 
