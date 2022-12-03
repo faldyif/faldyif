@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faldyif" alt="faldyif" /> </p>
 
-- 🔭 I’m currently working on [Asuka](https://github.com/faldyif/asuka)
+- 💻 I'm currently working for [@itmi-id](https://github.com/itmi-id), a company that makes Lifepack.id 💊 online pharmacy apps.
 
 - 🌱 I’m currently learning **Backend Performance Optimization**
 
-- 📝 I regulary write articles on [https://medium.com/@faldyif](https://medium.com/@faldyif)
+- 📝 I sometimes write articles on [https://medium.com/@faldyif](https://medium.com/@faldyif)
 
-- 💬 Ask me about **laravel, php and nodejs**
+- 💬 Ask me about **typescript, nodejs, php and backend stuffs**
 
 - 📫 How to reach me **faldy.if@gmail.com**
 
