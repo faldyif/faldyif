@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faldyif" alt="faldyif" /> </p>
 
-- 💻 I'm currently working for [@itmi-id](https://github.com/itmi-id), a company that makes Lifepack.id 💊 online pharmacy apps.
-
 - 🌱 I’m currently learning **Backend Performance Optimization**
 
 - 📝 I sometimes write articles on [https://medium.com/@faldyif](https://medium.com/@faldyif)
