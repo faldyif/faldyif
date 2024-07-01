@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faldyif" alt="faldyif" /> </p>
 
-- 🌱 I’m currently learning **Backend Performance Optimization**
-
-- 📝 I sometimes write articles on [https://medium.com/@faldyif](https://medium.com/@faldyif)
+- 📝 I sometimes write articles on [my personal blog](https://faldy.id)
 
 - 💬 Ask me about **typescript, nodejs, php and backend stuffs**
 
