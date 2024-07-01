@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
 - [Easily Find Missing and Different Environment Variable Values](https://faldy.id/easily-find-missing-and-different-environment-variable-values/)
-- [RabbitMQ Implementation for Microservices Communication on Node.js](https://faldy.id/implementasi-rabbitmq-untuk-komunikasi-microservices-pada-node-js/)
+- [RabbitMQ Implementation for Microservices Communication on Node.js](https://faldy.id/rabbitmq-implementation-for-microservices-communication-on-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faldyif&layout=compact&hide=html" alt="faldyif" /></p>
