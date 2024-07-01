@@ -15,8 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Easily Find Missing and Different Environment Variable Values](https://medium.com/itmi-engineering/easily-find-missing-and-different-environment-variable-values-10b60b40b35f?source=rss-696daa35cf52------2)
-- [Implementasi RabbitMQ untuk Komunikasi Microservices pada Node.js](https://medium.com/itmi-engineering/implementasi-rabbitmq-untuk-komunikasi-microservices-pada-node-js-d797bc0e9dc7?source=rss-696daa35cf52------2)
+- [First post from Ghost!](https://faldy.id/coming-soon/)
+- [Easily Find Missing and Different Environment Variable Values](https://faldy.id/easily-find-missing-and-different-environment-variable-values/)
+- [RabbitMQ Implementation for Microservices Communication on Node.js](https://faldy.id/implementasi-rabbitmq-untuk-komunikasi-microservices-pada-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faldyif&layout=compact&hide=html" alt="faldyif" /></p>
