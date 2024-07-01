@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [First post from Ghost!](https://faldy.id/coming-soon/)
+- [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
 - [Easily Find Missing and Different Environment Variable Values](https://faldy.id/easily-find-missing-and-different-environment-variable-values/)
 - [RabbitMQ Implementation for Microservices Communication on Node.js](https://faldy.id/implementasi-rabbitmq-untuk-komunikasi-microservices-pada-node-js/)
 <!-- BLOG-POST-LIST:END -->
