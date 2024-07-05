@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Unlocking AI Coding Power: Exploring Ollama and the Continue Plugin as GitHub Copilot Alternatives](https://faldy.id/unlocking-ai-coding-power-exploring-ollama-and-the-continue-plugin-as-github-copilot-alternatives/)
 - [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
-- [Easily Find Missing and Different Environment Variable Values](https://faldy.id/easily-find-missing-and-different-environment-variable-values/)
+- [Stop Stressing Over Environment Variables: Find Missing &amp; Different Values with This Simple Script](https://faldy.id/easily-find-missing-environment-variables-with-this-script/)
 - [RabbitMQ Implementation for Microservices Communication on Node.js](https://faldy.id/rabbitmq-implementation-for-microservices-communication-on-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
