@@ -13,10 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a NAS with Raspberry Pi: A Step-by-Step Guide](https://faldy.id/building-a-nas-with-raspberry-pi-a-step-by-step-guide/)
+- [My Homelab Journey: An Introduction](https://faldy.id/my-homelab-journey-an-introduction/)
 - [Unlocking AI Coding Power: Exploring Ollama and the Continue Plugin as GitHub Copilot Alternatives](https://faldy.id/unlocking-ai-coding-power-exploring-ollama-and-the-continue-plugin-as-github-copilot-alternatives/)
 - [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
 - [Stop Stressing Over Environment Variables: Find Missing &amp; Different Values with This Simple Script](https://faldy.id/easily-find-missing-environment-variables-with-this-script/)
-- [RabbitMQ Implementation for Microservices Communication on Node.js](https://faldy.id/rabbitmq-implementation-for-microservices-communication-on-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faldyif&layout=compact&hide=html" alt="faldyif" /></p>
