@@ -16,7 +16,7 @@
 - [Maximizing Raspberry Pi to Full-Fledged Server](https://faldy.id/maximizing-raspberry-pi-to-full-fledged-server/)
 - [Utilizing Raspberry Pi 4 for NAS](https://faldy.id/utilizing-raspberry-pi-4-for-nas/)
 - [A Start to My Homelab Journey](https://faldy.id/a-start-to-my-homelab-journey/)
-- [Unlocking AI Coding Power: Exploring Ollama and the Continue Plugin as GitHub Copilot Alternatives](https://faldy.id/unlocking-ai-coding-power-exploring-ollama-and-the-continue-plugin-as-github-copilot-alternatives/)
+- [Using Continue Plugin With Ollama as GitHub Copilot Alternatives](https://faldy.id/using-continue-plugin-with-ollama-as-github-copilot-alternatives/)
 - [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
 <!-- BLOG-POST-LIST:END -->
 
