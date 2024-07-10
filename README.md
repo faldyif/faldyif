@@ -14,8 +14,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Maximizing Your Raspberry Pi: From NAS to Full-Fledged Server](https://faldy.id/maximizing-your-raspberry-pi-from-nas-to-full-fledged-server-2/)
-- [Building a NAS with Raspberry Pi: A Step-by-Step Guide](https://faldy.id/building-a-nas-with-raspberry-pi-a-step-by-step-guide/)
-- [My Homelab Journey: An Introduction](https://faldy.id/my-homelab-journey-an-introduction/)
+- [Utilizing Raspberry Pi 4 for NAS](https://faldy.id/building-a-nas-with-raspberry-pi-a-step-by-step-guide/)
+- [A Start to My Homelab Journey](https://faldy.id/a-start-to-my-homelab-journey/)
 - [Unlocking AI Coding Power: Exploring Ollama and the Continue Plugin as GitHub Copilot Alternatives](https://faldy.id/unlocking-ai-coding-power-exploring-ollama-and-the-continue-plugin-as-github-copilot-alternatives/)
 - [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
 <!-- BLOG-POST-LIST:END -->
