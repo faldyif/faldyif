@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing Raspberry Pi to Full-Fledged Server](http://faldy.id/maximizing-raspberry-pi-to-full-fledged-server/)
-- [Utilizing Raspberry Pi 4 for NAS](http://faldy.id/utilizing-raspberry-pi-4-for-nas/)
-- [A Start to My Homelab Journey](http://faldy.id/a-start-to-my-homelab-journey/)
-- [Using Continue Plugin With Ollama as GitHub Copilot Alternatives](http://faldy.id/using-continue-plugin-with-ollama-as-github-copilot-alternatives/)
-- [First post from Ghost!](http://faldy.id/first-post-from-ghost/)
+- [Maximizing Raspberry Pi to Full-Fledged Server](https://faldy.id/maximizing-raspberry-pi-to-full-fledged-server/)
+- [Utilizing Raspberry Pi 4 for NAS](https://faldy.id/utilizing-raspberry-pi-4-for-nas/)
+- [A Start to My Homelab Journey](https://faldy.id/a-start-to-my-homelab-journey/)
+- [Using Continue Plugin With Ollama as GitHub Copilot Alternatives](https://faldy.id/using-continue-plugin-with-ollama-as-github-copilot-alternatives/)
+- [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faldyif&layout=compact&hide=html" alt="faldyif" /></p>
