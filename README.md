@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My Homelab Journey](https://faldy.id/my-homelab-journey/)
-- [Using Continue Plugin With Ollama as GitHub Copilot Alternatives](https://faldy.id/using-continue-plugin-with-ollama-as-github-copilot-alternatives/)
-- [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
-- [Easily Find Missing and Different Environment Variable Values](https://faldy.id/easily-find-missing-and-different-environment-variable-values/)
-- [RabbitMQ Implementation for Microservices Communication on Node.js](https://faldy.id/rabbitmq-implementation-for-microservices-communication-on-node-js/)
+- [My Homelab Journey](http://vps01:2368/my-homelab-journey/)
+- [Using Continue Plugin With Ollama as GitHub Copilot Alternatives](http://vps01:2368/using-continue-plugin-with-ollama-as-github-copilot-alternatives/)
+- [First post from Ghost!](http://vps01:2368/first-post-from-ghost/)
+- [Easily Find Missing and Different Environment Variable Values](http://vps01:2368/easily-find-missing-and-different-environment-variable-values/)
+- [RabbitMQ Implementation for Microservices Communication on Node.js](http://vps01:2368/rabbitmq-implementation-for-microservices-communication-on-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faldyif&layout=compact&hide=html" alt="faldyif" /></p>
