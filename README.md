@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faldyif" alt="faldyif" /> </p>
 
-- 📝 I sometimes write articles on [my personal blog](https://faldy.id)
+- 📝 I sometimes write articles on [my personal blog](https://faldy.id/blog/)
 
 - 💬 Ask me about **typescript, nodejs, php and backend stuffs**
 
