@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My Homelab Journey](https://faldy.id/my-homelab-journey/)
-- [Using Continue Plugin With Ollama as GitHub Copilot Alternatives](https://faldy.id/using-continue-plugin-with-ollama-as-github-copilot-alternatives/)
-- [First post from Ghost!](https://faldy.id/first-post-from-ghost/)
-- [Easily Find Missing and Different Environment Variable Values](https://faldy.id/easily-find-missing-and-different-environment-variable-values/)
-- [RabbitMQ Implementation for Microservices Communication on Node.js](https://faldy.id/rabbitmq-implementation-for-microservices-communication-on-node-js/)
+- [My First Missed Sprint Because of Untested Groovy Code](https://faldy.id/blog/complete-code-not-shippable/)
+- [Using AI for Code Refactoring With Conventions Document](https://faldy.id/blog/ai-refactoring-conventions/)
+- [Benchmarking 6 LLM Providers for Latency and Cost &lpar;December 2024&rpar;](https://faldy.id/blog/llm-provider-benchmark-2024/)
+- [Splitting LLM Workload Between Strong Model and Cheap Model](https://faldy.id/blog/two-tier-llm-architecture/)
+- [Gemini 2.0 Flash and Why Cheap Models With Strict Prompting is Enough](https://faldy.id/blog/strict-prompting-small-models/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=faldyif&layout=compact&hide=html" alt="faldyif" /></p>
